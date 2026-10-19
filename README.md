@@ -48,7 +48,7 @@ It supports `add`, `subtract`, `history`, `remove`, `help`, and `exit`.
 
 ## Successful GitHub Actions run
 
-(Add the link to your green Actions run here after pushing.)
+https://github.com/Denandis/my-oop-calculator/actions/runs/39296264040
 
 ## Coverage exclusions
 
